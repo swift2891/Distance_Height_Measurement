@@ -6,4 +6,4 @@ Techniques:
 2. Sensor Fusion Output (from Accelerometer/Gyroscope/Magnetometer + Complimentary filter)
 3. Angle of Inclination of phone calculated, which in turn gives distance.
 
-Other details attached in this Project Report. 
+Other details attached in this Project Report "Distance and Height Measurement.pdf" 
